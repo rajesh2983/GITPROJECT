@@ -1,3 +1,3 @@
 <web-app>
-        <display-name>Hello World</display-name>
+        <display-name>Hello World thankyou</display-name>
 </web-app>
