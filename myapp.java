@@ -1,5 +1,3 @@
-Here is the **exact text** from the image you shared:
-
 ```java
 public class Student {
 
